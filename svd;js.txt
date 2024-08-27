@@ -1,2 +1,0 @@
-svd;js
-funtion ob
